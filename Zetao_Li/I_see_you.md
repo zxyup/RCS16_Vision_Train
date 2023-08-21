@@ -1,0 +1,64 @@
+import cv2 as cv
+import numpy as np
+import matplotlib.pyplot as plt
+cap = cv.VideoCapture('vd.MP4')
+while cap.isOpened():
+    ret, im = cap.read()
+    # 如果正确读取帧，ret为True
+    if not ret:
+        print("Can't receive frame (stream end?). Exiting ...")
+        break
+      # 导入图像(im)
+    #im = cv.imread('./blue.png')
+    #img = cv.imread('./blue.png')
+#转换成HSV图
+    e1 = cv.getTickCount()
+    img = im
+    im = cv.cvtColor(im, cv.COLOR_BGR2HSV)
+# 定义im中颜色的范围
+    lower_ = np.array([0,113,250])
+    upper_ = np.array([93,218,255])
+# 设置im的阈值使得只取该范围内颜色
+    mask = cv.inRange(im, lower_, upper_)
+ # 将掩膜和图像逐像素相加
+    im = cv.bitwise_and(im,im, mask= mask)
+#使用高斯过滤
+    im = cv.GaussianBlur(im,(7,7),0)
+#转为灰度图并使用阈值
+    im = cv.cvtColor(im, cv.COLOR_HSV2BGR)
+    im = cv.cvtColor(im, cv.COLOR_BGR2GRAY)
+    ret, im = cv.threshold(im,100,255,cv.THRESH_BINARY)
+    #plt.imshow(im)
+    #plt.show()
+#扩张
+    kernel = np.ones((4, 4), np.uint8)
+    im = cv.dilate(im, kernel, iterations=3)
+    #plt.imshow(im,cmap='gray')
+    #plt.show()
+
+    contours, hierarchy = cv.findContours(im, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_SIMPLE) #建立外轮廓
+    max = 0
+    y = []
+    center1 = None
+    #cv.drawContours(img,contours,-1,(0,0,255),3)
+    for cnt in contours:
+        (x,y),radius = cv.minEnclosingCircle(cnt)
+        center = (int(x),int(y))
+        radius = int(radius)
+        if radius > max:
+            max = radius
+            center1 = center
+    r = int(max/3)
+    cv.circle(img,center1,r,(0,0,255),2)
+    e2 = cv.getTickCount()
+    t = str((e2 - e1)/ cv.getTickFrequency())
+    font = cv.FONT_HERSHEY_SIMPLEX
+    cv.putText(img,t,(10,500), font, 4,(255,255,255),2,cv.LINE_AA)
+   # plt.imshow(img)
+    #plt.show()
+    #gray = cv.cvtColor(img, cv.COLOR_BGR2RGB)
+    cv.imshow('frame', img)
+    if cv.waitKey(1) == ord('q'):
+        break
+cap.release()
+cv.destroyAllWindows()

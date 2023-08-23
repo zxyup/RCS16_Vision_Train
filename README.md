@@ -1,4 +1,9 @@
 # RCS16_Vision_Train
+## 队员成果展示
+#### 陈靖辉
+***第二节 多次函数回归***
+效果图
+![线性回归](Jinghui_Chen/img/linear_regression.png)
 
 
 ## Stargazers over time

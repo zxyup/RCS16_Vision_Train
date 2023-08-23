@@ -9,7 +9,7 @@
 #### 褚皓程
 ***第二节 多次函数回归***
 效果图
-![test](C:\Users\18601\Pictures\result.png)
+![test](C:/Users/18601/Pictures/result.png)
 
 
 ## Stargazers over time

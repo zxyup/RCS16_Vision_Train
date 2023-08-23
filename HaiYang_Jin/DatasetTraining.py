@@ -107,5 +107,4 @@ h =w*(xx**3) + b*(xx**2)+xx*c+d
 plt.plot(xx,h)
 plt.scatter(x,y,marker='+',color='red')
 plt.title("JinHaiYang")
-
 plt.show()

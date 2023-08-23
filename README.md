@@ -62,6 +62,9 @@
 #### 孙哲伟
 ![test](Zhewei_Sun/img/mlp.png)
 
+#### 金海洋
+![test](HaiYang_Jin/picture/JMA.PNG)
+
 ***    
 # 你的提交应该在这个上面
 ## Stargazers over time

@@ -14,6 +14,9 @@
 
 
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
+#### 陈靖辉
+![线性回归](Jinghui_Chen/img/MLP_RNN_fits_sinusoidal_function.png)
+![线性回归](Jinghui_Chen/img/MLP_RNN_fits_sinusoidal_function_2.png)
 ***
 # 你的提交应该在这个上面
 ## Stargazers over time

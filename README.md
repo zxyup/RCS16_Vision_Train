@@ -12,6 +12,9 @@
 #### 郑凯航
 ![线性回归](Kaihang_Zheng/img/regression.png)
 
+#### 金海洋
+![线性回归](HaiYang_Jin/picture/buhuo.PNG)
+
 #### 褚皓程
 ![test](HaoCheng_Chu/img/output.png)
 

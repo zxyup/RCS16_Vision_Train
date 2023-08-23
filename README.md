@@ -6,6 +6,7 @@
 
 #### 陈靖辉
 ![线性回归](Jinghui_Chen/img/linear_regression.png)
+
 #### 郑凯航
 ***第二节 多次函数回归***
 效果图
@@ -34,6 +35,9 @@
 
 #### 李泽涛
 ![Alt text](Zetao_Li/img/sin.png)
+
+### 郑凯航
+![AAA](Kaihang_Zheng/img/mlp.png)
 
 ***
 

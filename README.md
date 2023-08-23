@@ -2,7 +2,7 @@
 ## 队员成果展示
 ### 第一节 opencv实践
 #### 夏星
-![test](Xing_Xia\img\counters.png)
+![test](Xing_Xia/img/counters.png)
 
 ### 第二节 机器学习--多次函数回归
 
@@ -25,7 +25,7 @@
 ![test](Jun_Liao/output.png)
 
 #### 夏星
-![test](Xing_Xia\img\back.png)
+![test](Xing_Xia/img/back.png)
 
 #### 王晓敏
 ![test](Xiaomin_Wang/img/pytorchim1.png)
@@ -43,8 +43,8 @@
 ![Alt text](Zetao_Li/img/sin.png)
 
 #### 夏星
-![test](Xing_Xia\img\2.1(1).png)
-![test](Xing_Xia\img\2.2(2).png)
+![test](Xing_Xia/img/2.1(1).png)
+![test](Xing_Xia/img/2.2(2).png)
 
 #### 王晓敏
 ![text](Xiaomin_Wang/img/pytorchim2.png)

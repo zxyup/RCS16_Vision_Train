@@ -19,6 +19,9 @@
 #### 廖军
 ![test](Jun_Liao/output.png)
 
+#### 王晓敏
+![test](Xiaomin_Wang\img\pytorchim1.png)
+
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
 
 #### 陈靖辉
@@ -30,6 +33,9 @@
 
 #### 李泽涛
 ![Alt text](Zetao_Li/img/sin.png)
+
+#### 王晓敏
+![text](Xiaomin_Wang\img\pytorchim2.png)
 
 ***
 

@@ -3,6 +3,7 @@
 ### 第一节 opencv实践
 
 ### 第二节 机器学习--多次函数回归
+
 #### 陈靖辉
 ![线性回归](Jinghui_Chen/img/linear_regression.png)
 
@@ -19,6 +20,10 @@
 ![test](Jun_Liao/output.png)
 
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
+
+#### 陈靖辉
+![线性回归](Jinghui_Chen/img/MLP_RNN_fits_sinusoidal_function.png)
+![线性回归](Jinghui_Chen/img/MLP_RNN_fits_sinusoidal_function_2.png)
 
 #### 廖军
 ![test](Jun_Liao/output1.png)

@@ -40,9 +40,10 @@
 #### 徐安妮
 ![Alt text](Anni_Xu/img/sinx2.png)
 
+#### 褚皓程
+![cos](HaoCheng_Chu/img/output1.png)
 
 ***
-
 # 你的提交应该在这个上面
 ## Stargazers over time
 

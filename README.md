@@ -12,6 +12,8 @@
 #### 孙哲伟
 ![test](Zhewei_Sun/img/linear.png)
 
+#### 金海洋
+![test](HaiYang_Jin/picture/buhuo.PNG)
 
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
 ***

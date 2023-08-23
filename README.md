@@ -17,6 +17,8 @@
 
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
 ***
+#### 廖军
+![test](Jun_Liao/output1.png)
 # 你的提交应该在这个上面
 ## Stargazers over time
 

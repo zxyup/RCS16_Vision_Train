@@ -11,15 +11,17 @@
 ![test](HaoCheng_Chu/img/output.png)
 #### 孙哲伟
 ![test](Zhewei_Sun/img/linear.png)
-
+#### 李泽涛
+![Alt text](Zetao_Li/img/line.png)
 
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
-***
+### 李泽涛
+![Alt text](Zetao_Li/img/sin.png)
+
 # 你的提交应该在这个上面
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/zxyup/RCS16_Vision_Train.svg)](https://starchart.cc/zxyup/RCS16_Vision_Train)
-#### 李泽涛
-***第二节 多次函数回归***
-效果图
-![线性回归](SPSVE_%60%601(~%5D7%5D)OMTE7%7DTE.png)
+
+
+

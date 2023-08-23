@@ -7,6 +7,10 @@
 ***第二节 多次函数回归***
 效果图
 ![线性回归](Jinghui_Chen/img/linear_regression.png)
+#### 郑凯航
+***第二节 多次函数回归***
+效果图
+![线性回归](Kaihang_Zheng/img/regression.png)
 
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
 ***

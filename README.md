@@ -6,6 +6,12 @@
 #### 陈靖辉
 ![线性回归](Jinghui_Chen/img/linear_regression.png)
 
+
+#### 褚皓程
+![test](HaoCheng_Chu/img/output.png)
+
+
+
 ### 第三节 机器学习--MLP,RNN拟合正弦函数
 ***
 # 你的提交应该在这个上面

@@ -54,6 +54,7 @@
 
 #### 褚皓程
 ![cos](HaoCheng_Chu/img/output1.png)
+![cos](HaoCheng_Chu/img/output2.png)
 
 ### 郑凯航
 ![AAA](Kaihang_Zheng/img/mlp.png)

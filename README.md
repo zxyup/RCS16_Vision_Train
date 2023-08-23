@@ -56,8 +56,11 @@
 ![cos](HaoCheng_Chu/img/output1.png)
 ![cos](HaoCheng_Chu/img/output2.png)
 
-### 郑凯航
+#### 郑凯航
 ![AAA](Kaihang_Zheng/img/mlp.png)
+
+#### 孙哲伟
+![test](Zhewei_Sun/img/mlp.png)
 
 ***    
 # 你的提交应该在这个上面

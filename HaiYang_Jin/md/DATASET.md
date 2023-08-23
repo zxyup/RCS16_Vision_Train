@@ -151,7 +151,7 @@
 
 ### 效果图
 
-！[MLP](../picture/MLP.png)
+！[MLP](../picture/MLP.PNG)
 
 ## 代码部分
 

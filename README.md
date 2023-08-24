@@ -87,6 +87,9 @@
 #### 郑凯航 
 ![text](Kaihang_Zheng/img/4.png)
 
+#### 徐安妮
+ ![text](Anni_Xu/img/mlp1.PNG)
+
 
 
 ### 第五节 深度学习--CIFAR10分类任务实战
@@ -98,6 +101,9 @@
 #### 金海洋
 ![text](HaiYang_Jin/picture/dd.PNG)
 
+#### 徐安妮
+ ![text](Anni_Xu/img/cifar1.PNG)
+ 
 #### 郑凯航 
 ![text](Kaihang_Zheng/img/5.png)
  

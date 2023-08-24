@@ -73,6 +73,9 @@
  #### 陈靖辉
  ![text](Jinghui_Chen/img/4.png)
 
+ #### 褚皓程
+ ![text](HaoCheng_Chu/img/output3.png)
+
 ### 第五节 深度学习--CIFAR10分类任务实战
  ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
  #### 陈靖辉

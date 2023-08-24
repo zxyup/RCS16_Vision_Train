@@ -79,6 +79,10 @@
  #### 金海洋
  ![text](HaiYang_Jin/picture/zhe.PNG)
 
+#### 徐安妮
+ ![text](Anni_Xu/img/mlp1.PNG)
+
+
 ### 第五节 深度学习--CIFAR10分类任务实战
  ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
  #### 陈靖辉
@@ -86,6 +90,10 @@
 
  #### 金海洋
  ![text](HaiYang_Jin/picture/dd.PNG)
+
+ 
+#### 徐安妮
+ ![text](Anni_Xu/img/cifar1.PNG)
 ***    
 # 你的提交应该在这个上面
 ## Stargazers over time

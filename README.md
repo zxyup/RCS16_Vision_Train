@@ -69,23 +69,30 @@
 ![test](HaiYang_Jin/picture/JMA.PNG)
 
 ### 第四节 深度学习--MLP实现手写字体识别
- ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
- #### 陈靖辉
- ![text](Jinghui_Chen/img/4.png)
+***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
+#### 陈靖辉
+![text](Jinghui_Chen/img/4.png)
 
- #### 褚皓程 
- ![text](HaoCheng_Chu/img/output3.png)
+#### 褚皓程 
+![text](HaoCheng_Chu/img/output3.png)
 
- #### 郑凯航 
- ![text](Kaihang_Zheng/img/4.png)
-### 第五节 深度学习--CIFAR10分类任务实战
- ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
- #### 陈靖辉
- ![text](Jinghui_Chen/img/5.png)
-
+#### 金海洋
+![text](HaiYang_Jin/picture/zhe.PNG)
  
- #### 郑凯航 
- ![text](Kaihang_Zheng/img/5.png)
+#### 郑凯航 
+![text](Kaihang_Zheng/img/4.png)
+
+### 第五节 深度学习--CIFAR10分类任务实战
+***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
+#### 陈靖辉
+![text](Jinghui_Chen/img/5.png)
+
+#### 金海洋
+![text](HaiYang_Jin/picture/dd.PNG)
+ 
+#### 郑凯航 
+![text](Kaihang_Zheng/img/5.png)
+ 
 ***    
 # 你的提交应该在这个上面
 ## Stargazers over time

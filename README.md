@@ -73,7 +73,7 @@
  #### 陈靖辉
  ![text](Jinghui_Chen/img/4.png)
 
- #### 褚皓程
+ #### 褚皓程 
  ![text](HaoCheng_Chu/img/output3.png)
 
 ### 第五节 深度学习--CIFAR10分类任务实战

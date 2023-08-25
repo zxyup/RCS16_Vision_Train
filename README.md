@@ -88,7 +88,7 @@
 ![text](Kaihang_Zheng/img/4.png)
 
 #### 徐安妮
- ![text](Anni_Xu/img/mlp1.PNG)
+ ![text](Anni_Xu/img/mlp1.png)
  #### 李泽涛
  ![Alt text](Zetao_Li/img/SHOUXIE_output.png)
 
@@ -103,10 +103,11 @@
 ![text](HaiYang_Jin/picture/dd.PNG)
 
 #### 徐安妮
- ![text](Anni_Xu/img/cifar1.PNG)
+ ![text](Anni_Xu/img/cifar1.png)
  
 #### 郑凯航 
 ![text](Kaihang_Zheng/img/5.png)
+
 #### 李泽涛
 ![Alt text](Zetao_Li/img/classfilyoutput.png)
  

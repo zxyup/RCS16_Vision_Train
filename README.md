@@ -89,6 +89,8 @@
 
 #### 徐安妮
  ![text](Anni_Xu/img/mlp1.PNG)
+ #### 李泽涛
+ ![Alt text](Zetao_Li/img/SHOUXIE_output.png)
 
 
 ### 第五节 深度学习--CIFAR10分类任务实战
@@ -105,6 +107,8 @@
  
 #### 郑凯航 
 ![text](Kaihang_Zheng/img/5.png)
+#### 李泽涛
+![Alt text](Zetao_Li/img/classfilyoutput.png)
  
 ***    
 # 你的提交应该在这个上面

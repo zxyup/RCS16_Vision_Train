@@ -69,6 +69,7 @@
 ![test](HaiYang_Jin/picture/JMA.PNG)
 
 
+
 ### 第四节 深度学习--MLP实现手写字体识别
 ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
 
@@ -92,7 +93,8 @@
  #### 李泽涛
  ![Alt text](Zetao_Li/img/SHOUXIE_output.png)
 
-
+ #### 王晓敏
+ ![text](Xiaomin_Wang/img/mlp2.png)
 ### 第五节 深度学习--CIFAR10分类任务实战
 ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
 
@@ -110,6 +112,8 @@
 #### 李泽涛
 ![Alt text](Zetao_Li/img/classfilyoutput.png)
  
+#### 王晓敏
+![text](Xiaomin_Wang/img/Cifar.png)
 ***    
 # 你的提交应该在这个上面
 ## Stargazers over time

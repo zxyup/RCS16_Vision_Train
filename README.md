@@ -89,6 +89,8 @@
 
 #### 徐安妮
  ![text](Anni_Xu/img/mlp1.PNG)
+ #### 李泽涛
+ ![Alt text](Zetao_Li/img/SHOUXIE_output.png)
 
 #### 王晓敏
 ![text](Xiaomin_Wang/img/mlp2.png)
@@ -107,6 +109,8 @@
  
 #### 郑凯航 
 ![text](Kaihang_Zheng/img/5.png)
+#### 李泽涛
+![Alt text](Zetao_Li/img/classfilyoutput.png)
  
 #### 王晓敏
 ![text](Xiaomin_Wang/img/Cifar.png)

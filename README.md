@@ -95,6 +95,9 @@
 
  #### 王晓敏
  ![text](Xiaomin_Wang/img/mlp2.png)
+
+ #### 廖军
+ ![test](Jun_Liao/output3.png)
 ### 第五节 深度学习--CIFAR10分类任务实战
 ***必做** 效果图片按训练集准确率，测试集准确率，训练集损失排一排*
 
